@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">
- [ ✘ 𝙏𝙃𝙀 𝘼𝙍𝙏𝙄𝙎𝙏 ✘ ]
-
 
  
 <h1 align="center">Hi 👋, I'm Prabhat Kumar Sharma</h1>
