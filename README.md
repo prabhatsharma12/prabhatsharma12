@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=164B63&multiline=true&width=453&height=100&lines=Hi+there+👋KAY+HAAL;HEHE+HEHE)](https://git.io/typing-svg)
+
 
 <!--
 **wwwlbs22/wwwlbs22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
